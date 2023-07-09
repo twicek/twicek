@@ -2,7 +2,7 @@
 
 8 months ago I started my journey as a security researcher focusing primarily on smart contract written in Solidity/Vyper. During my journey, I participated in audit contests on [code4rena](https://code4rena.com/) and [Sherlock](https://app.sherlock.xyz/audits/contests) where I learned a lot and found multiple vulnerabilities. I also tried my hands at [Immunefi](https://immunefi.com/), and while learning to interact with deployed contract using foundry I found two additional vulnerabilities on already audited contracts.
 
-I'm currently available for work as a solo auditor, you can reach me at [twiceksec@gmail.com](mailto:twiceksec@gmail.com) or dm me on twitter [@twicek_k](https://twitter.com/twicek_k) for informations and fill this [form](https://forms.gle/RECdxmQ8AtTCQCVh7) to get a quote.
+I'm currently available for work as a solo auditor, you can reach me at [twiceksec@gmail.com](mailto:twiceksec@gmail.com) or DM me on Twitter [@twicek_k](https://twitter.com/twicek_k) for informations and fill this [form](https://forms.gle/RECdxmQ8AtTCQCVh7) to get a quote.
 
 You can find examples of previous auditing work below.
 
