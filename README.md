@@ -15,7 +15,7 @@ You can find examples of previous auditing work below.
 | Undisclosed | Griefing | Medium |
 | Undisclosed | Uninitialized critical variable | Low 
 
-## Some contests findings
+## Some contest findings
 
 | Contest | Findings |
 |----------|----------|
